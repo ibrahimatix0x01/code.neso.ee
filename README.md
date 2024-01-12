@@ -1,146 +1,26 @@
-<html>
-<head>
-    <script src="https://nathanprinsley-files.prinsh.com/data-1/js/deface(04-01).js" type="application/javascript"></script>
-    <script type="application/javascript" src="https://nathanprinsley-files.prinsh.com/data-1/js/deface(04-02).js" ></script>
-    <script type="application/javascript" src="https://nathanprinsley-files.prinsh.com/data-1/js/deface(04-03).js"></script>
-<!-- AdFender script begin --><script type='text/javascript' src='http://local.adfender.com/adfender/elemhide.js'></script><!-- AdFender script end -->
-<!-- AdFender script begin --><script type='text/javascript' src='http://local.adfender.com/adfender/elemhide.js'></script><!-- AdFender script end -->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js" type="text/javascript"></script> 
-<title>Hacked By RS-YAAD</title>
-<style>
-body{ 
-background-color: #000000;
-background-repeat:no-repeat;
-background-attachment:fixed;
-background-position:center; 
-font-family: LOL SECURITY; 
-font-size: 27px;
-}
-h1 {
-padding: 10px 15px;
-margin: 0px;
-font-size: 14px;
-background-color: #000000;
-//background-image: -moz-linear-gradient(100% 100% 90deg, #777, #999) !important;
-//background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#999), to(#777)) !important;
-color: #FFF;
-//-webkit-border-radius:8px 8px 0px 0px;
-//-moz-border-radius: 8px 8px 0px 0px;
-border-radius: 8px 8px 0px 0px;
-text-shadow:1px 1px 2px #333333;
-opacity: 0.5;
-}
-table {
-width: 565px;
-}
-table tr td{
-font-family: verdana;
-font-size: 11px;
-padding: 10px 5px;
-border-bottom: solid 1px #CCC;
+<html><head><center><title>Hacked By ibrahimatix0x01 </title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta property="og:title" content=""><meta property="og:description" content="RS-YAAD"/><meta content="" name="Abstract"><meta name=""><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/jquery-1.10.2.min.js.download"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style type="text/css">/* latin */ @font-face { font-family: 'Iceberg'; font-style: normal; font-weight: 400; src: local('Iceberg'), local('Iceberg-Regular'), url(https://fonts.gstatic.com/s/iceberg/v7/8QIJdijAiM7o-qnZiI8EqprnEO0.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }</style>
+<style type="text/css">/* latin */@font-face { font-family: 'Wallpoet'; font-style: normal; font-weight: 400; src: local('Wallpoet'), url(https://fonts.gstatic.com/s/wallpoet/v11/f0X10em2_8RnXVVdUObp58Tt868H.woff2) format('woff2'); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style>
+<style type="text/css"> @import url('https://fonts.googleapis.com/css?family=Nunito');@import url('https://fonts.googleapis.com/css?family=Poiret+One');body, html {height: 100%;background-repeat: no-repeat; /*background-image: linear-gradient(rgb(12, 97, 33),rgb(104, 145, 162));*/background:black;position: relative;}#particles-js{ width: 100%; height: 100%; background-size: cover; background-position: 50% 50%; position: fixed; top: 0px; z-index:1;}h1{font:1.5em Cinzel,serif;font-weight:400;letter-spacing:.35em;text-shadow:0 0 25px rgba(254,254,255,.85);width:70%} } footer { margin: 20%; } #a { onmousedown:stop; animation-name: rotate ; animation-duration: 5s; animation-play-state: running; animation-timing-function: linear; animation-iteration-count: infinite; opacity: 1.0;filter: alpha(opacity=50);} img:hover {opacity: 1.0;filter: alpha(opacity=100);} @keyframes rotate{ 10% {transform:rotateY(36deg)} 20% {transform:rotateY(72deg)} 30% {transform:rotateY(108deg)} 40% {transform:rotateY(144deg)} 50% {transform:rotateY(180deg)} 60% {transform:rotateY(216deg)} 70% {transform:rotateY(252deg)} 80% {transform:rotateY(288deg)} 90% {transform:rotateY(324deg)} 100% {transform:rotateY(360deg)} }</style></head><body><body background="https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-hacked_gif.gif &#10;" title="RS-YAAD" bgcolor="black"><audio src="https://nathanprinsley-files.prinsh.com/data-1/mp3/sub-urban_cradles.mp3" loop="1" autoplay="1"></audio>
+<style type="text/css">.blink_me{font-size:40px;-webkit-animation-name:blinker;-webkit-animation-duration:2s;-webkit-animation-timing-function:linear;-webkit-animation-iteration-count:infinite;-moz-animation-name:blinker;-moz-animation-duration:2s;-moz-animation-timing-function:linear;-moz-animation-iteration-count:infinite;animation-name:blinker;animation-duration:1s;animation-timing-function:linear;animation-iteration-count:infinite;}@-moz-keyframes blinker{0% {opacity:1.0;}50% {opacity:0.0;}100% {opacity:1.0;}}@-webkit-keyframes blinker{ 0% {opacity:1.0;}50% {opacity:0.0;}100% {opacity:1.0;}}@keyframes blinker{0% {opacity:1.0;}50% {opacity:0.0;}100% {opacity:1.0;}}</style><blink>
+<p><br><br><br><br><center></b><font size="3,5"<font color="white">Hacked BY <br><br><span class="blink_me"><font size="4" color="Red" face="Wallpoet" style="text-shadow: 5px 0px 30px red;">RS-YAAD</font></center></span><br><br><center><font size="1" color="grey" face="Iceberg"> </font><font size="3"<color="red" face="Iceberg">......</span></font> <font size="1" color="grey" face="Iceberg"> <span style="color:white;" id="12"></span></font></center> 
+<b><b><div id="particles-js">	<canvas class="particles-js-canvas-el" style="width: 100%; height: 100%;" width="1365" height="949"></canvas></div>
 
-}
-#wrapper{
-width: 800px;
-margin: 10px auto;
-text-align: left;
-background: url('https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-AnonymousLogo.png') no-repeat center center fixed ;
-opacity:50%;
-}
-#console{
-height: 400px;
-overflow: auto;
-background-color: #000;
-padding: 15px;
-font-family: monospace;
-font-size: 12px;
-color: #FFF;
-}
-.content{
-padding: 15px;
-}
-#commander{
-border: solid 1px #CCC;
-padding: 5px 10px;
--webkit-border-radius: 2px;
--moz-border-radius: 2px;
-border-radius: 2px;
-margin: 5px;
-width: 590px;
-height: 30px;
-}
-.box{
--moz-box-shadow: 1px 1px 8px #666;
--webkit-box-shadow: 1px 1px 8px #666;
-box-shadow: 1px 1px 8px #40D5D2;
-border: solid 1px black;
--webkit-border-radius: 8px 8px 0px 0px;
--moz-border-radius: 8px 8px 0px 0px;
-border-radius: 8px 8px 0px 0px;
-margin: 15px 0px;
-background-color: #F5F5F5;
-opacity: 0.8;
-}
-#help{
-width: 300px;
-float: right;
-}
-.prefix{
-color: #0077E7;
-}
-.keyword{
-color: #9eff63;
-}
-.error{
-color: #FF0000;
-}
-.spacer{
-clear: both;
-display: block;
-}
-</style>
+<script type="text/javascript">$.getScript("https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js", function(){ particlesJS('particles-js', { "particles": { "number": { "value": 80, "density": { "enable": true, "value_area": 800 } }, "color": { "value": "#ffffff" }, "shape": { "type": "circle", "stroke": { "width": 0, "color": "#000000" }, "polygon": { "nb_sides": 5 }, "image": { "width": 100, "height": 100 } }, "opacity": { "value": 0.5, "random": false, "anim": { "enable": false, "speed": 1, "opacity_min": 0.1, "sync": false } }, "size": { "value": 5, "random": true, "anim": { "enable": false, "speed": 40, "size_min": 0.1, "sync": false } }, "line_linked": { "enable": true, "distance": 150, "color": "#ffffff", "opacity": 0.4, "width": 1 }, "move": { "enable": true, "speed": 6, "direction": "none", "random": false, "straight": false, "out_mode": "out", "attract": { "enable": false, "rotateX": 600, "rotateY": 1200 } } }, "interactivity": { "detect_on": "canvas", "events": { "onhover": { "enable": true, "mode": "repulse" }, "onclick": { "enable": true, "mode": "push" }, "resize": true }, "modes": { "grab": { "distance": 400, "line_linked": { "opacity": 1 } }, "bubble": { "distance": 400, "size": 40, "duration": 2, "opacity": 8, "speed": 3 }, "repulse": { "distance": 200 }, "push": { "particles_nb": 4 }, "remove": { "particles_nb": 2 } } }, "retina_detect": true, "config_demo": { "hide_card": false, "background_color": "#b61924", "background_image": "", "background_position": "50% 50%", "background_repeat": "no-repeat", "background_size": "cover" } } );}); </script>
+</b>
+<br><br>
+<center><br/></center><marquee scrollamount="30" behavior="alternate" width="100%"><font size="3" <font color="white">______________________________________</font> </marquee></font> <center><font size="1" color="lightblue"><marquee width="100%"><b><u>
 
-</head>
-<body background='https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-hacked_gif.gif' oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;' ondragstart='return false' onselectstart='return false' style='-moz-user-select: none; cursor: default;'>
-<br/><br/>
-<div id="wrapper">
-<div class="box">
-<h1>root@Yaad~</h1>
-<div id="console"><span class="prefix">
-<p id="message">
-<font color="red">root@yaad:~#</font><font color="white"> hello admin <br>
-<font color="red">root@yaad:~#</font><font color="white"> <font color="aqua" size="5px">RS-YAAD</font> Was Here !!!<br>
-<font color="red">root@yaad:~#</font><font color="white"> Your security are low.<br>
-<font color="red">root@yaad:~#</font><font color="white"> Please patch your security.<br>
-<font color="red">root@yaad:~#</font><font color="white"> I will come back soon.<br>
-<font color="red">root@yaad:~#</font><font color="white"> We are <font color="yellow" size="3px">ANONYMOUS</font><br>
 <br>
-<font color="lime" size="5px">[+] Hacked By RS-YAAD</font><br>
-<font color="white">[+] Message : Remember this, There is not perfect security in the world..
-We are only testing your security on your site..Hacking is not criminal.. but Hacking is art<br>
-We are <font color="yellow" size="3px">ANONYMOUS</font> <br>
-We are United<br>
-We are Legion<br>
-We do not forgive<br>
-We do not forget<br>
-Expect us<br>
-<br>
+<font face="iceberg" size="2px" color="red"> RS
+    <font size="2px" color="white" face="Iceberg">ibrahimatix0x01</font><br>
 
-<font color="Cyan">[+] Greetz : RS-YAAD | NO SYSTEM IS SAFE<br>
-<br>
-<br>
-<font color="yellow">RS<br>
-<script type="text/javascript">
-new TypingText(document.getElementById("message"), 50, function(i){ var ar 
-
-= new Array("|", "|", "|", "|"); return " " + ar[i.length % ar.length]; });
-
-//Type out examples:
-TypingText.runAll();
-
-</script>
-<input text="test" id="commander" onkeyup="execute(this,event);" disabled="disabled" style="width:786px;"/>
-</div>
-<div class="spacer"></div>
-<audio src="https://nathanprinsley-files.prinsh.com/data-1/mp3/mi-mi-mi.mp3" loop="1" autoplay="1"></audio>
-</body></html>
+</b></u></marquee></center><marquee scrollamount="30" behavior="alternate" width="100%"><font size="3"><font color="white">_____________________________________________________</font></marquee></font></body></font>
+ <br><span class="blink_me"><font size="3" color="Red" face="Wallpoet" style="text-shadow: 5px 0px 27px red;">Powered By Ibrahimatix0X01 <br><a href="https://www.fb.com/ibrahimatix0x01">COPYRIGHT© 2024<br></span></center>
+</html>
